@@ -18,28 +18,36 @@ def get_files(logfolder):
     return files
 
 
-def get_line(log):
+def get_normalline(log):
     file = open(log)
+    date = str(log)[-10:-4]
     results = []
     for line in file:
         if normalline.match(line):
-            print normalline.search(line).groups()
-        else:
-            print 'not chat line'
+            timestmp = normalline.search(line).group(1)
+            nick = normalline.search(line).group(2)
+            text = normalline.search(line).group(3)
+            say = {'date': date, 'timestamp': timestmp,
+                   'nick': nick, 'text': text}
+            results.append(context)
     return results
 
 
 # def parse_logs(files):
 #     """ try and get the files in a threaded fashion"""
 #     pool = ThreadPool(8)
-#     stuff = pool.map(get_line(files), files)
+#     stuff = pool.map(get_normalline(files), files)
 
 
 def main():
     files = get_files(logfolder)
     print files
     for file in files:
-        get_line(os.path.join(logfolder, file))
+        normallines = get_normalline(os.path.join(logfolder, file))
+    # for i, timestamp in enumerated(d['timestamp'] for d in normallines):
+    #    print i, timestamp
+    for a in normallines:
+        print str(a)
     # parse_logs(files)
 
 if __name__ == '__main__':
