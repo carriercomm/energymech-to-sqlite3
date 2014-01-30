@@ -5,10 +5,9 @@ from os import listdir
 from os.path import isfile, join
 # from multiprocessing.dummy import Pool as ThreadPool
 
-# only matches the hour, not the full time. Need to find fix
-normalline = re.compile('^\[[^\]]*(\d{2}):\d+:\d+\] <([^>]+)> (.*)$')
-actionline = re.compile('^\[[^\]]*(\d{2}):\d+:\d+\] \* (\S+) (.*)$')
-serverline = re.compile('^\[[^\]]*(\d{2}):(\d+):\d+\] \*{3} (.+)$')
+normalline = re.compile('^\[[^\]]*(\d{2}:\d{2}:\d{2})\] <([^>]+)> (.*)$')
+actionline = re.compile('^\[[^\]]*(\d{2}:\d{2}:\d{2})\] \* (\S+) (.*)$')
+serverline = re.compile('^\[[^\]]*(\d{2}:\d{2}:\d{2})\] \*{3} (.+)$')
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 logfolder = os.path.join(basedir, 'log')
