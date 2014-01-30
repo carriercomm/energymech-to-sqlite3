@@ -29,7 +29,7 @@ def get_normalline(log):
             text = normalline.search(line).group(3)
             say = {'date': date, 'timestamp': timestmp,
                    'nick': nick, 'text': text}
-            results.append(context)
+            results.append(say)
     return results
 
 
