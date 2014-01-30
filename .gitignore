@@ -20,7 +20,6 @@ lib64
 __pycache__
 env
 .codeintel
-log
 
 # Installer logs
 pip-log.txt
