@@ -21,7 +21,7 @@ def get_files(logfolder):
 
 def get_chatline(log):
     file = open(log)
-    date = str(log)[-10:-4]
+    date = str(log)[-12:-4]
     results = []
     for line in file:
         if chatline.match(line):
@@ -31,6 +31,7 @@ def get_chatline(log):
             say = {'date': date, 'timestamp': timestmp,
                    'nick': nick, 'text': text}
             results.append(say)
+    print "\n\nresults are " + str(results)
     return results
 
 
@@ -58,7 +59,7 @@ def main():
         files.append(os.path.join(logfolder, file))
     values = parse_logs(files)
     for value in values:
-        print str(value)
+        print "\n\nDEBUGLIST " + str(value)
 
 if __name__ == '__main__':
     main()
