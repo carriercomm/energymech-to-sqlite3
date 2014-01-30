@@ -1,0 +1,119 @@
+[00:40:02] *** Quits: Taffer (Mibbit@c-76-103-252-19.hsd1.ca.comcast.net) (Quit: http://www.mibbit.com ajax IRC Client)
+[01:31:05] *** Joins: Xenolith5 (~Miranda@chello080108104069.16.11.vie.surfer.at)
+[01:34:55] *** Quits: Xenolith5 (~Miranda@chello080108104069.16.11.vie.surfer.at) (Client Quit)
+[01:35:09] *** Joins: Xenolith5 (~Miranda@chello080108104069.16.11.vie.surfer.at)
+[01:41:47] *** Joins: Kazeyonoma2 (Mibbit@108-85-140-69.lightspeed.irvnca.sbcglobal.net)
+[02:04:22] *** Joins: ZeDestructor (~ZD@2002:c5e1:79e:e472::1000)
+[02:52:34] *** Quits: progz (~progz@cpe-76-180-219-130.buffalo.res.rr.com) ()
+[02:55:21] *** Quits: Xiphirx (~Xiphirx@74.195.63.110) (Quit: woop woop)
+[03:23:33] *** Joins: Chaosteil (Mibbit@ctv-213-164-113-174.vinita.lt)
+[03:28:19] <Chaosteil> sup
+[05:01:24] *** Quits: Chaosteil (Mibbit@ctv-213-164-113-174.vinita.lt) (Quit: http://www.mibbit.com ajax IRC Client)
+[05:15:40] <Anime> ohai
+[05:44:10] *** Joins: tacticalbacon (~Jens@91.80-202-248.nextgentel.com)
+[05:45:54] *** Joins: Eddga (jackpot@188.32.108.204)
+[05:46:57] *** Quits: tacticalbacon (~Jens@91.80-202-248.nextgentel.com) (Client Quit)
+[06:15:56] *** Quits: Kazeyonoma2 (Mibbit@108-85-140-69.lightspeed.irvnca.sbcglobal.net) (Quit: http://www.mibbit.com ajax IRC Client)
+[06:54:14] *** Quits: ZeDestructor (~ZD@2002:c5e1:79e:e472::1000) (Read error: Connection reset by peer)
+[06:57:35] *** Joins: ZeDestructor (~ZD@197.225.6.100)
+[07:34:49] *** Quits: ZeDestructor (~ZD@197.225.6.100) (Ping timeout: 201 seconds)
+[07:45:21] *** Joins: ZeDestructor (~ZD@197.225.6.100)
+[07:47:38] *** Joins: buchstaben (~textual@cpe-071-068-036-095.carolina.res.rr.com)
+[07:54:06] *** Joins: tacticalbacon (~Jens@91.80-202-248.nextgentel.com)
+[08:11:44] *** Quits: tacticalbacon (~Jens@91.80-202-248.nextgentel.com) (Quit: Leaving)
+[08:26:13] *** Joins: Chaosteil (Mibbit@ctv-213-164-113-174.vinita.lt)
+[08:28:27] <Chaosteil> hey Anime, how's that thing you're working on?
+[08:52:35] <Anime> nearly finished
+[08:52:58] <Anime> frontend hasn't changed much cause th ework being done now is on the backend
+[08:56:46] <Chaosteil> decided on more features or less features?
+[08:57:59] <Anime> not really, its intended to stay like that
+[08:58:11] <Anime> but i'll add more stuff probably
+[08:58:13] <Anime> eventually
+[08:59:46] <Chaosteil> aye
+[09:21:57] *** Joins: Blastor (~Wes@184-155-104-158.cpe.cableone.net)
+[09:24:24] *** Joins: tacticalbacon (~Jens@91.80-202-248.nextgentel.com)
+[09:58:01] *** Joins: Blastor1 (~Wes@184-155-104-158.cpe.cableone.net)
+[09:58:17] *** Quits: Blastor (~Wes@184-155-104-158.cpe.cableone.net) (Ping timeout: 192 seconds)
+[10:08:04] *** Quits: Blastor1 (~Wes@184-155-104-158.cpe.cableone.net) (Quit: Leaving.)
+[10:09:57] *** Joins: Blastor (~Wes@184-155-104-158.cpe.cableone.net)
+[10:17:24] *** Quits: Blastor (~Wes@184-155-104-158.cpe.cableone.net) (Quit: Leaving.)
+[10:31:58] *** Joins: ctZorgNotZerg (~Zorg@c-76-109-154-33.hsd1.fl.comcast.net)
+[11:15:45] *** Quits: Chaosteil (Mibbit@ctv-213-164-113-174.vinita.lt) (Quit: http://www.mibbit.com ajax IRC Client)
+[11:21:47] *** Quits: Xenolith5 (~Miranda@chello080108104069.16.11.vie.surfer.at) (Ping timeout: 192 seconds)
+[11:23:34] *** Joins: Kazeyonoma2 (Mibbit@108-85-140-69.lightspeed.irvnca.sbcglobal.net)
+[11:46:55] *** Joins: newborn (~newborn@64.197.111.130)
+[11:59:40] *** Joins: Blastor (~Wes@184-155-104-158.cpe.cableone.net)
+[12:02:41] *** Joins: trustyhank (~trustyhan@c-68-82-49-140.hsd1.pa.comcast.net)
+[12:04:51] *** Quits: Blastor (~Wes@184-155-104-158.cpe.cableone.net) (Quit: Leaving.)
+[12:12:04] <newborn> bashiok is getting a lot of hate these days on r/diablo
+[12:12:07] <newborn> kind of amuses me
+[12:12:37] *** Joins: Chaosteil (Mibbit@84.32.245.148)
+[12:17:38] <Anime> why's that?
+[12:18:48] <Chaosteil> what did I miss?
+[12:19:42] <Anime> 151203 <newborn> bashiok is getting a lot of hate these days on r/diablo
+[12:19:42] <Anime> 151206 <newborn> kind of amuses me
+[12:21:00] <Chaosteil> because he's cryptic
+[12:21:02] <Chaosteil> as always
+[12:35:02] <newborn> Anime: why is he getting hate?
+[12:35:05] <newborn> or why am i amused?
+[12:38:17] <newborn> he's getting hated on in r/diablo because he's not doing his job as community manager very well because a) he's being condescending to people on twitter / forums
+[12:38:30] <newborn> b) not clearly explaining things in his repsonses
+[12:38:45] <newborn> and i'm amused because i like a bit of flaming now and again
+[13:10:15] *** Quits: trustyhank (~trustyhan@c-68-82-49-140.hsd1.pa.comcast.net) (Quit: Computer has gone to sleep.)
+[13:18:24] *** Quits: Kazeyonoma2 (Mibbit@108-85-140-69.lightspeed.irvnca.sbcglobal.net) (Quit: http://www.mibbit.com ajax IRC Client)
+[13:46:19] *** Joins: Blastor (~Wes@184-155-104-158.cpe.cableone.net)
+[14:03:41] *** Joins: Kazeyonoma (Mibbit@lax-gate1.raytheon.com)
+[14:05:19] *** Quits: jab416171 (u2058@irccloud.com) (Remote host closed the connection)
+[14:17:47] *** Joins: jab416171 (u2058@irccloud.com)
+[14:23:50] *** Quits: Pacman (~Pacman@c-76-102-218-139.hsd1.ca.comcast.net) (Read error: Connection reset by peer)
+[14:24:05] *** Quits: ml (~no@124-168-234-74.dyn.iinet.net.au) ()
+[14:24:08] *** Joins: Pacman (~Pacman@c-76-102-218-139.hsd1.ca.comcast.net)
+[14:51:15] *** Joins: Xiphirx (~Xiphirx@74.195.63.110)
+[14:51:16] *** ChanServ sets mode: +o Xiphirx
+[14:55:10] *** Joins: Xiphirx_ (~Xiphirx@74.195.63.110)
+[14:55:44] *** Quits: Xiphirx (~Xiphirx@74.195.63.110) (Ping timeout: 201 seconds)
+[15:06:18] *** Quits: tacticalbacon (~Jens@91.80-202-248.nextgentel.com) (Quit: Leaving)
+[16:12:59] *** Joins: JosephW1993 (~JosephW19@cpe-69-204-178-200.nycap.res.rr.com)
+[16:32:40] *** Quits: Chaosteil (Mibbit@84.32.245.148) (Quit: http://www.mibbit.com ajax IRC Client)
+[16:39:13] *** Quits: Blastor (~Wes@184-155-104-158.cpe.cableone.net) (Quit: Leaving.)
+[16:45:32] *** Quits: JosephW1993 (~JosephW19@cpe-69-204-178-200.nycap.res.rr.com) (Quit: Leaving.)
+[16:55:56] *** Quits: Corosus (~Corosus@CPE000ea6b69a05-CM001225db78d6.cpe.net.cable.rogers.com) (Read error: Connection reset by peer)
+[16:56:16] *** Joins: Corosus (~Corosus@CPE000ea6b69a05-CM001225db78d6.cpe.net.cable.rogers.com)
+[17:03:47] *** Quits: Corosus (~Corosus@CPE000ea6b69a05-CM001225db78d6.cpe.net.cable.rogers.com) (Ping timeout: 192 seconds)
+[17:07:09] *** Joins: Corosus (~Corosus@CPE000ea6b69a05-CM001225db78d6.cpe.net.cable.rogers.com)
+[17:08:23] *** Joins: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net)
+[17:17:19] *** Quits: buchstaben (~textual@cpe-071-068-036-095.carolina.res.rr.com) (Quit: Computer has gone to sleep.)
+[17:26:20] *** Joins: Taffer (Mibbit@c-76-103-252-19.hsd1.ca.comcast.net)
+[17:26:36] *** ChanServ sets mode: +o Taffer
+[17:32:23] *** Quits: furyhunter (~furyhunte@cpe-72-182-76-214.austin.res.rr.com) (Read error: Connection reset by peer)
+[17:35:26] *** Joins: buchstaben (~textual@cpe-071-068-036-095.carolina.res.rr.com)
+[17:43:29] <Taffer> yo
+[17:45:16] *** Quits: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net) (Remote host closed the connection)
+[18:06:47] *** Quits: newborn (~newborn@64.197.111.130) (Quit: newborn)
+[18:38:02] *** Quits: buchstaben (~textual@cpe-071-068-036-095.carolina.res.rr.com) (Quit: Computer has gone to sleep.)
+[18:46:21] *** Joins: buchstaben (~textual@cpe-071-068-036-095.carolina.res.rr.com)
+[18:58:12] *** Joins: furyhunter (~furyhunte@cpe-72-182-76-214.austin.res.rr.com)
+[19:06:50] *** Joins: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net)
+[19:20:18] *** Quits: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net) (Quit: Computer has gone to sleep.)
+[19:34:28] *** Quits: ZeDestructor (~ZD@197.225.6.100) (Ping timeout: 201 seconds)
+[19:34:53] *** Quits: jsedlak (~jsedlak@ool-43538c1f.dyn.optonline.net) (Read error: Connection reset by peer)
+[20:18:34] *** Joins: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net)
+[20:20:58] *** Joins: jsedlak (~jsedlak@ool-43538c1f.dyn.optonline.net)
+[20:21:34] <krackpot> Fucker mentioned a release date without actually mentioning the release date. Fucking troll.
+[20:32:18] <Kazeyonoma> jan 27th
+[20:32:21] <Kazeyonoma> heard it here!
+[20:34:30] <Taffer> I knew it was nothing the whole time
+[20:49:52] *** Joins: JosephW1993 (~JosephW19@cpe-69-204-178-200.nycap.res.rr.com)
+[20:55:31] *** Joins: Epsyjuice (Mibbit@211-217.96-97.tampabay.res.rr.com)
+[21:08:14] *** Quits: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net) (Read error: Connection reset by peer)
+[21:08:40] *** Joins: trustyhank (~trustyhan@c-71-224-43-246.hsd1.pa.comcast.net)
+[21:13:36] *** Quits: Eddga (jackpot@188.32.108.204) (Read error: Connection reset by peer)
+[21:19:22] <Anime> <krackpot> Fucker mentioned a release date without actually mentioning the release date. Fucking troll. <- who?
+[21:40:45] *** Quits: Kazeyonoma (Mibbit@lax-gate1.raytheon.com) (Quit: http://www.mibbit.com ajax IRC Client)
+[21:47:14] *** Joins: Kazeyonoma (Mibbit@lax-gate1.raytheon.com)
+[22:02:45] *** Quits: Epsyjuice (Mibbit@211-217.96-97.tampabay.res.rr.com) (Quit: http://www.mibbit.com ajax IRC Client)
+[22:04:48] *** Joins: Epsyjuice (Mibbit@211-217.96-97.tampabay.res.rr.com)
+[22:08:20] *** Quits: Epsyjuice (Mibbit@211-217.96-97.tampabay.res.rr.com) (Client Quit)
+[22:08:35] *** Joins: Epsyjuice (Mibbit@211-217.96-97.tampabay.res.rr.com)
+[22:53:40] *** Quits: Taffer (Mibbit@c-76-103-252-19.hsd1.ca.comcast.net) (Quit: http://www.mibbit.com ajax IRC Client)
+[22:58:58] *** Joins: Kazeyonoma2 (Mibbit@108-85-140-69.lightspeed.irvnca.sbcglobal.net)
