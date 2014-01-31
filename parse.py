@@ -19,6 +19,11 @@ def get_files(logfolder):
     return files
 
 
+# db tables
+# user: (pk)id, (txt)nick
+# message: (pk)id, (date)date, (time)timestamp, (txt)text, (fk)user.id
+
+
 def get_chatline(log):
     file = open(log)
     date = str(log)[-12:-4]
